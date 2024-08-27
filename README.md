@@ -5,6 +5,4 @@ t, time period in years
 r, annual rate of interest
 Output
 simple interest = p*t*r
-
-Added a new file bug-fix-type.md
-added new datas
+ZZZ
